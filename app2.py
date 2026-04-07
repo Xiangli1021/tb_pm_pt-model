@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 import joblib
 
 
-model_rf = joblib.load('/Users/lix_profile/Desktop/app部署/rf.pkl')
 
 # 页面标题
 st.title("肺结核合并尘肺患者治疗转归预测")
